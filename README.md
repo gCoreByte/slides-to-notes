@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Slides2Notes</h1>
+<h1 align="center">Slides2Notes</h1>
 
 ## Installation
 ```
